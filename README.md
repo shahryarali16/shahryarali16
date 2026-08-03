@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shahryar Ali 👋
 
-<!--
-**shahryarali16/shahryarali16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Cyber Security Student at Aror University
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🌱 Currently learning HTML, CSS, JavaScript & Cyber Security
+- 💻 Interested in Web Development and Ethical Hacking
+- 🎯 Goal: Become a Cyber Security Professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+## 📫 Connect with Me
+- 📧 Email: shahryaralisoomro6@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/shahryar-ali-771b5b2b5?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 📷 Instagram: https://instagram.com/shahryarali16
+
+⭐ Thanks for visiting my profile!

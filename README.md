@@ -40,8 +40,6 @@
 ### 🛒 Amazon Clone Website
 - Built using HTML, CSS & JavaScript
 
-### 🏥 Hira Medical Center Website
-- Responsive website design project
 
 ### 🔐 Cyber Security Projects
 - Learning ethical hacking, networking and security concepts

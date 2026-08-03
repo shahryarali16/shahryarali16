@@ -1,21 +1,100 @@
-# Hi, I'm Shahryar Ali 👋
+# Hi 👋, I'm Shahryar Ali
 
-🎓 BS Cyber Security Student at Aror University
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&width=600&lines=Cyber+Security+Student;Web+Developer;Future+Security+Engineer;Always+Learning+New+Things" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahryarali16&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning HTML, CSS, JavaScript & Cyber Security
-- 💻 Interested in Web Development and Ethical Hacking
-- 🎯 Goal: Become a Cyber Security Professional
 
-## 🛠 Skills
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
+- 🎓 BS Cyber Security Student
+- 🏫 Studying at Aror University
+- 💻 Passionate about Web Development & Cyber Security
+- 🌱 Currently learning:
+  - HTML
+  - CSS
+  - JavaScript
+  - C++
+  - Java
+  - Cyber Security Fundamentals
 
-## 📫 Connect with Me
-- 📧 Email: shahryaralisoomro6@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/shahryar-ali-771b5b2b5?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 📷 Instagram: https://instagram.com/shahryarali16
+- 🎯 Goal: Become a Professional Cyber Security Engineer
 
-⭐ Thanks for visiting my profile!
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,python,git,github,vscode,mysql,linux" />
+
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🛒 Amazon Clone Website
+- Built using HTML, CSS & JavaScript
+
+### 🏥 Hira Medical Center Website
+- Responsive website design project
+
+### 🔐 Cyber Security Projects
+- Learning ethical hacking, networking and security concepts
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shahryarali16&show_icons=true&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahryarali16&theme=tokyonight" />
+
+</p>
+
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shahryarali16&theme=tokyonight&row=1" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/shahryarali16">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+## ⚡ Quote
+
+> "The future belongs to those who learn more skills and combine them creatively."
+
+---
+
+⭐ From [shahryarali16](https://github.com/shahryarali16)

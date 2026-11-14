@@ -84,6 +84,9 @@
 <a href="https://github.com/shahryarali16">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+<a href="https://instagram.com">
+<img src="https://commons.wikimedia.org/wiki/File:Instagram_logo_2022.svg"/>
+</a>
 
 </p>
 
